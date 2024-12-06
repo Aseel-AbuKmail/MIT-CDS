@@ -1,5 +1,5 @@
 # MIT-CDS
-This repo includes all of things about MIT Data Science and Computer Science Certificate Program
+This repo includes all of things about MIT Data Science and Computer Science Certificate Program.
 This program conisite of two parts:
 
 First Phase: Emerging Talent Foundations Track:
